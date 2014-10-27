@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Kuvat/Kolmiokuva.jpg</file>
+        <file>Kuvat/NeliöKuva.jpg</file>
+        <file>Kuvat/Plasma.jpg</file>
+        <file>Kuvat/Ympyräkuva.jpg</file>
+    </qresource>
+</RCC>
